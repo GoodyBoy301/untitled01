@@ -1,0 +1,75 @@
+#indigo {
+  background: var(--indigo);
+}
+.state01 #indigo {
+  left: 90.2rem;
+  width: 30.8rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 0;
+  border-top-left-radius: 65%;
+}
+.state02 #indigo {
+  left: 90.2rem;
+  width: 30.8rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 50%;
+}
+.state03 #indigo {
+  left: 90.2rem;
+  width: 30.8rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 25%;
+}
+.state04 #indigo {
+  left: 72.2rem;
+  width: 8.7rem;
+  top: 39.2rem;
+  height: 15.6rem;
+  border-radius: 4.35rem;
+}
+.state05 #indigo {
+  left: 96.6rem;
+  width: 15.4rem;
+  top: 18.4rem;
+  height: 51rem;
+  border-radius: 0%;
+}
+.state06 #indigo {
+  left: 6.43rem;
+  height: 11.78rem;
+  top: 18.67rem;
+  width: 14.75rem;
+  border-radius: 0;
+  border-top-right-radius: 50%;
+}
+.state07 #indigo {
+  left: 6.45rem;
+  height: 11.78rem;
+  top: 18.67rem;
+  width: 14.78rem;
+  border-radius: 5.89rem;
+}
+.state08 #indigo {
+  left: 6.45rem;
+  height: 11.78rem;
+  top: 18.67rem;
+  width: 14.78rem;
+  border-radius: 0%;
+}
+.state09 #indigo {
+  left: 13.97rem;
+  height: 4.63rem;
+  top: 21.47rem;
+  width: 15.35rem;
+  border-radius: 2.32rem;
+}
+.state10 #indigo {
+  left: 6.61rem;
+  height: 4.21rem;
+  top: 11.94rem;
+  width: 17.61rem;
+  border-radius: 0%;
+}

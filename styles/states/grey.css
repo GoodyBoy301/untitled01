@@ -1,0 +1,76 @@
+#grey {
+  background: var(--grey);
+}
+.state01 #grey {
+  left: 23rem;
+  width: 30.8rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 0;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.state02 #grey {
+  left: 23rem;
+  width: 30.8rem;
+  top: 42.5rem;
+  height: 30.4rem;
+  border-radius: 50%;
+}
+.state03 #grey {
+  left: 23rem;
+  width: 30.8rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 25%;
+}
+.state04 #grey {
+  left: 47.8rem;
+  width: 14.9rem;
+  top: 29.3rem;
+  height: 46.6rem;
+  border-radius: 74.5rem;
+}
+.state05 #grey {
+  left: 63rem;
+  width: 9.2rem;
+  top: 29.3rem;
+  height: 30.4rem;
+  border-radius: 0%;
+}
+.state06 #grey {
+  left: 6.45em;
+  height: 10.66rem;
+  top: 41.34rem;
+  width: 7.37rem;
+  border-radius: 0;
+  border-bottom-right-radius: 81%;
+}
+.state07 #grey {
+  left: 6.45em;
+  height: 10.66rem;
+  top: 41.34rem;
+  width: 7.37rem;
+  border-radius: 3.69rem;
+}
+.state08 #grey {
+  left: 6.45em;
+  height: 10.66rem;
+  top: 41.34rem;
+  width: 7.37rem;
+  border-radius: 0%;
+}
+.state09 #grey {
+  left: 6.36rem;
+  height: 5rem;
+  top: 41.56rem;
+  width: 17.35rem;
+  border-radius: 2.5rem;
+}
+.state10 #grey {
+  left: 6.59rem;
+  height: 5.15rem;
+  top: 41.33rem;
+  width: 17.43em;
+  border-radius: 0%;
+}

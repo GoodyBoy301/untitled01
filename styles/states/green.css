@@ -1,0 +1,75 @@
+#green {
+  background: var(--green);
+}
+.state01 #green {
+  left: 23rem;
+  width: 18.4rem;
+  top: 14.5rem;
+  height: 30.4rem;
+  border-radius: 0%;
+  border-bottom-left-radius: 20rem;
+}
+.state02 #green {
+  left: 23rem;
+  width: 18.4em;
+  top: 25.1rem;
+  height: 17.4rem;
+  border-radius: 50%;
+}
+.state03 #green {
+  left: 23em;
+  width: 18.4rem;
+  top: 14.5rem;
+  height: 30.25rem;
+  border-radius: 9.2rem;
+}
+.state04 #green {
+  left: 23rem;
+  width: 9.6rem;
+  top: 14.5rem;
+  height: 30.8rem;
+  border-radius: 4.8rem;
+}
+.state05 #green {
+  left: 23rem;
+  width: 9.6rem;
+  top: 14.1rem;
+  height: 30.8rem;
+  border-radius: 0%;
+}
+.state06 #green {
+  left: 6.45em;
+  height: 10.88rem;
+  top: 30.46rem;
+  width: 12.25rem;
+  border-radius: 0%;
+  border-bottom-left-radius: 100%;
+}
+.state07 #green {
+  left: 6.45em;
+  height: 10.88rem;
+  top: 30.46rem;
+  width: 15.73em;
+  border-radius: 5.44rem;
+}
+.state08 #green {
+  left: 6.45em;
+  height: 10.88rem;
+  top: 30.46rem;
+  width: 15.73rem;
+  border-radius: 0%;
+}
+.state09 #green {
+  left: 6.48rem;
+  height: 5.41rem;
+  top: 30.6rem;
+  width: 15.35rem;
+  border-radius: 2.71rem;
+}
+.state10 #green {
+  left: 6.61rem;
+  height: 5.6rem;
+  top: 30.4rem;
+  width: 15.65em;
+  border-radius: 0%;
+}

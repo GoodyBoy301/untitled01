@@ -1,0 +1,76 @@
+#white {
+  background: var(--white);
+}
+.state01 #white {
+  left: 53.8rem;
+  width: 18.4rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 0;
+  border-bottom-left-radius: 20rem;
+}
+.state02 #white {
+  left: 53.8rem;
+  width: 18.4rem;
+  top: 46.9rem;
+  height: 18.8rem;
+  border-radius: 50%;
+}
+.state03 #white {
+  left: 53.8rem;
+  width: 18.4rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 9.2rem;
+}
+.state04 #white {
+  left: 62.75rem;
+  width: 9.2rem;
+  top: 44.9rem;
+  height: 31rem;
+  border-radius: 4.6rem;
+}
+.state05 #white {
+  left: 72.2rem;
+  width: 24.4rem;
+  top: 14.1rem;
+  height: 61.8rem;
+  border-radius: 0%;
+}
+.state06 #white {
+  left: 13.82rem;
+  height: 10.55rem;
+  top: 41.45rem;
+  width: 15.73rem;
+  border-radius: 0;
+  border-top-left-radius: 5.28rem;
+  border-bottom-left-radius: 5.28rem;
+}
+.state07 #white {
+  left: 13.82rem;
+  height: 10.55rem;
+  top: 41.45rem;
+  width: 15.73rem;
+  border-radius: 5.28rem;
+}
+.state08 #white {
+  left: 13.82rem;
+  height: 10.65rem;
+  top: 41.35rem;
+  width: 15.73rem;
+  border-radius: 0%;
+}
+.state09 #white {
+  left: 13.97rem;
+  height: 5.44rem;
+  top: 46.56rem;
+  width: 15.52rem;
+  border-radius: 2.72rem;
+}
+.state10 #white {
+  left: 13.89rem;
+  height: 5.54rem;
+  top: 46.48rem;
+  width: 15.65rem;
+  border-radius: 0%;
+}
